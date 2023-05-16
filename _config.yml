@@ -20,7 +20,9 @@ timezone: Asia/Seoul
 
 title: Calvin Yang / 양현수 # the main title
 
-tagline: Personal webpage # it will display as the sub-title
+tagline: Gatech '24 CS Major
+Info Internetworks / Intelligence
+Member of GreyHats # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal webpage of Calvin(Hyunsoo) Yang / 양현수. Created via Github Pages and Jekyll, theme imported from Chirpy.
@@ -80,7 +82,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /Users/calya/Desktop/Intern/hyuns9808.github.io/assets/photo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
