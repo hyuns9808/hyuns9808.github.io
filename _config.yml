@@ -20,10 +20,10 @@ timezone: Asia/Seoul
 
 title: Calvin Yang / 양현수 # the main title
 
-tagline: 
-- Gatech '24 CS Major
-- Info Internetworks / Intelligence
-- Member of GreyHats # it will display as the sub-title
+tagline: >-
+  Gatech '24, Computer Science
+  Info Internetworks / Intelligence
+  Member of GreyHats # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal webpage of Calvin(Hyunsoo) Yang / 양현수. Created via Github Pages and Jekyll, theme imported from Chirpy.
@@ -69,7 +69,7 @@ google_analytics:
 # on the bottom left of the sidebar.
 #
 # Available options:
-#
+#s
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
