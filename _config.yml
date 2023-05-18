@@ -21,8 +21,8 @@ timezone: Asia/Seoul
 title: Calvin Yang / 양현수 # the main title
 
 tagline: |+
-  Gatech '24, Computer Science
-  Info Internetworks / Intelligence
+  Gatech '24, Computer Science\n
+  Info Internetworks / Intelligence\n
   Member of GreyHats
 
 description: >- # used by seo meta and the atom feed
